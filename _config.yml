@@ -17,7 +17,6 @@ title: NodeShift
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   GET YOUR NODE.JS ON OPENSHIFT - Simplify your development of Node.js applications on Kubernetes and Openshift with the Nodeshift Project.
-baseurl: ""
 # baseurl: "/nodeshift_website" # the subpath of your site, e.g. /blog
 url: "https://nodeshift.dev/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
