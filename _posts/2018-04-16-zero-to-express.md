@@ -3,6 +3,7 @@ layout: post
 title:  "Zero to Express on OpenShift in Three Commands"
 date:   2018-04-16
 categories: Openshift Nodeshift
+cannonical_url: https://developers.redhat.com/blog/2018/04/16/zero-express-openshift-3-commands/
 author: lholmquist
 ---
 
