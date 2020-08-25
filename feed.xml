@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://nodeshift.dev//feed.xml" rel="self" type="application/atom+xml" /><link href="https://nodeshift.dev//" rel="alternate" type="text/html" /><updated>2020-08-25T16:56:20+00:00</updated><id>https://nodeshift.dev//feed.xml</id><title type="html">NodeShift</title><subtitle>GET YOUR NODE.JS ON OPENSHIFT - Simplify your development of Node.js applications on Kubernetes and Openshift with the Nodeshift Project.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://nodeshift.dev//blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-03T16:19:59+00:00</published><updated>2018-10-03T16:19:59+00:00</updated><id>https://nodeshift.dev//blog/welcome-to-jekyll</id><content type="html" xml:base="https://nodeshift.dev//blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>tsmith</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://nodeshift.dev//blog/welcome-to-jekyll-copy/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-03T16:19:59+00:00</published><updated>2018-10-03T16:19:59+00:00</updated><id>https://nodeshift.dev//blog/welcome-to-jekyll-copy</id><content type="html" xml:base="https://nodeshift.dev//blog/welcome-to-jekyll-copy/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>tsmith</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Zero to Express on OpenShift in Three Commands</title><link href="https://nodeshift.dev//blog/zero-to-express/" rel="alternate" type="text/html" title="Zero to Express on OpenShift in Three Commands" /><published>2018-04-16T00:00:00+00:00</published><updated>2018-04-16T00:00:00+00:00</updated><id>https://nodeshift.dev//blog/zero-to-express</id><content type="html" xml:base="https://nodeshift.dev//blog/zero-to-express/">&lt;p&gt;&lt;strong&gt;(Edit: November 22, 2019) The Node images used in this post, both community &lt;code&gt;centos7&lt;/code&gt; and &lt;code&gt;product&lt;/code&gt;, are no longer being updated and maintained. For community images, please use the Universal Base Image (UBI)-based node images located here: &lt;a href=&quot;http://registry.access.redhat.com/ubi8/nodejs-10&quot;&gt;registry.access.redhat.com/ubi8/nodejs-10&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For a fully supported Product version of Node.js, please check out the Red Hat Software Collections Node.js image, &lt;a href=&quot;https://access.redhat.com/containers/#/registry.access.redhat.com/rhscl/nodejs-10-rhel7&quot;&gt;RH SCL Node.js&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the recent &lt;a href=&quot;https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;announcement that Node.js is generally available as part of Red Hat OpenShift Application Runtimes,&lt;/a&gt; I wanted to see how easy it was to deploy an &lt;a href=&quot;https://expressjs.com/&quot;&gt;Express.js&lt;/a&gt; app on OpenShift.&lt;/p&gt;
+&lt;h3&gt;Getting Started&lt;/h3&gt;
+&lt;p&gt;Before we start, there are some required prerequisites. You need to have &lt;a href=&quot;https://nodejs.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Node 8.x&lt;/a&gt; and &lt;a href=&quot;https://www.npmjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;npm 5.2 &lt;/a&gt; or greater installed. npm comes with the official node distribution, so if you install Node from &lt;a href=&quot;https://nodejs.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Nodejs.org&lt;/a&gt;, you should be good.&lt;/p&gt;
+
+&lt;p&gt;You’ll also need access to an OpenShift environment or the Red Hat Container Development Kit (CDK) minishift environment. For this example, I’ll be using minishift. You can find instructions on getting minishift up and running &lt;a href=&quot;https://developers.redhat.com/products/cdk/hello-world/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;here&lt;/a&gt;. For my local minishift, I start it with this command:&lt;/p&gt;
+&lt;pre&gt;$ minishift start --memory=6144 --vm-driver virtualbox&lt;/pre&gt;
+&lt;p&gt;You also need to be logged in to whatever OpenShift cluster you are using (OpenShift or minishift) using &lt;code&gt;oc login&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Spoiler Alert&lt;/h3&gt;
+&lt;p&gt;For those who don’t want to read the whole post and don’t want to scroll to the end, here are the three commands that need to be run:&lt;/p&gt;
+&lt;pre&gt;$ npx express-generator .&lt;/pre&gt;
+&lt;pre&gt;$ npx json -I -f package.json -e 'this.scripts.start=&quot;PORT=8080 node ./bin/www&quot;'&lt;/pre&gt;
+&lt;pre&gt;$ npx nodeshift --strictSSL=false --expose&lt;/pre&gt;
+&lt;h3&gt;Generate an Express App&lt;/h3&gt;
+&lt;p&gt;What is Express, you say? Well, according to the &lt;a href=&quot;https://expressjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Express website&lt;/a&gt;, Express is a “Fast, unopinionated, minimalist web framework for Node.js.”&lt;/p&gt;
+
+&lt;p&gt;One pretty cool thing about Express is the &lt;i&gt;Express application generator tool&lt;/i&gt;: &lt;code&gt;express-generator&lt;/code&gt;. This is a command-line tool that &lt;a href=&quot;https://expressjs.com/en/starter/generator.html&quot;&gt;“quickly creates an application skeleton”&lt;/a&gt;. But wait: didn’t I just say that Express was unopinionated? It is, but this is the opinionated skeleton creator. ¯&lt;em&gt;(ツ)&lt;/em&gt;/¯&lt;/p&gt;
+
+&lt;p&gt;The Express website recommends installing the &lt;code&gt;express-generator&lt;/code&gt; module globally, like this:&lt;/p&gt;
+&lt;pre&gt;npm install -g express-generator&lt;/pre&gt;
+&lt;p&gt;But we aren’t going to do that. Instead, we are going to use a fairly new feature from npm, called &lt;code&gt;npx&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;npx&lt;/code&gt; gives us the ability to run one-off commands with out having to install things globally. There is more to &lt;code&gt;npx&lt;/code&gt; that just that feature, so if you are interested in all the cool things &lt;code&gt;npx&lt;/code&gt; can do, check it out &lt;a href=&quot;https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With this new-found knowledge, we can now generate our Express app like this:&lt;/p&gt;
+&lt;pre&gt;$ npx express-generator .&lt;/pre&gt;
+&lt;p&gt;Let’s take a quick look at what is actually happening with this command. First, &lt;code&gt;npx&lt;/code&gt; sees that we want to run the &lt;code&gt;express-generator&lt;/code&gt; command, so &lt;code&gt;npx&lt;/code&gt; does some magic to see if we have it installed locally (in our current directory), and then it checks our global modules. Because it is not there, it downloads it for this one-time use.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;express-generator&lt;/code&gt; is run in our current directory, which is denoted by that &lt;strong&gt;.&lt;/strong&gt; at the end of the command.&lt;/p&gt;
+
+&lt;p&gt;The result should look something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-475687&quot; src=&quot;https://developers.redhat.com/blog/wp-content/uploads/2018/03/express-quick-example-screenshot-1-1024x524.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;express-generator&lt;/code&gt; also gives us some instructions on how to install the dependencies and then how to run the application. You can skip that for now.&lt;/p&gt;
+&lt;h3&gt;Update the package.json File&lt;/h3&gt;
+&lt;p&gt;Now that we created our basic Express application using one command, we need to add one thing to &lt;code&gt;package.json&lt;/code&gt; before we deploy our app.&lt;/p&gt;
+
+&lt;p&gt;We need to pass a &lt;code&gt;PORT&lt;/code&gt; environment variable to our start script.&lt;/p&gt;
+
+&lt;p&gt;One way to do this is to open a text editor and do it that way, but that would add a few more steps. To do this in one command, we can use the &lt;a href=&quot;https://www.npmjs.com/package/json&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;json module&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;$ npx json -I -f package.json -e 'this.scripts.start=&quot;PORT=8080 node ./bin/www&quot;'&lt;/pre&gt;
+&lt;p&gt;As before, we are using the &lt;code&gt;npx&lt;/code&gt; command to allow us to not have to install the &lt;code&gt;json&lt;/code&gt; module globally.&lt;/p&gt;
+
+&lt;p&gt;Let’s see what is going on with the options passed to the &lt;code&gt;json&lt;/code&gt; module.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;-I -f package.json&lt;/code&gt; means that we want to edit in place the file &lt;code&gt;package.json&lt;/code&gt;. The &lt;code&gt;-e&lt;/code&gt; option will execute some JavaScript code, which in this case is setting the &lt;code&gt;scripts.start&lt;/code&gt; property from &lt;code&gt;package.json&lt;/code&gt; with the string &lt;code&gt;&quot;PORT=8080 node ./bin/www&quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information on the &lt;code&gt;json&lt;/code&gt; module, check out the &lt;a href=&quot;http://trentm.com/json/&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Deploy the Application to OpenShift&lt;/h3&gt;
+&lt;p&gt;And now, the final step is to run this command:&lt;/p&gt;
+&lt;pre&gt;$ npx nodeshift --strictSSL=false --expose&lt;/pre&gt;
+&lt;p&gt;Here, we are using the &lt;a href=&quot;https://www.npmjs.com/package/nodeshift&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;nodeshift module&lt;/a&gt; to deploy our application. &lt;code&gt;nodeshift&lt;/code&gt; is a CLI or programmable API that helps with deploying Node apps to OpenShift.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;npx&lt;/code&gt; is doing the same thing as in the previous examples.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nodeshift&lt;/code&gt; is using two flags. The first, &lt;code&gt;strictSSL=false&lt;/code&gt;, is needed when deploying to minishift or someplace that is using a self-signed certificate. If we were deploying to a real OpenShift cluster, we could leave that out.&lt;/p&gt;
+
+&lt;p&gt;The second flag, &lt;code&gt;expose&lt;/code&gt;, tells &lt;code&gt;nodeshift&lt;/code&gt; that it should create a &lt;a href=&quot;https://docs.openshift.com/online/architecture/networking/routes.html&quot;&gt;&lt;em&gt;route&lt;/em&gt;&lt;/a&gt; for us, which allows our application to be seen by the outside world. (If you are running minishift locally, only you can see the application.)&lt;/p&gt;
+
+&lt;p&gt;The output of this command will look something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-475707&quot; src=&quot;https://developers.redhat.com/blog/wp-content/uploads/2018/03/express-quick-example-nodeshift-output-1024x633.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If we head over to the web UI of our running minishift, we can see that the created pod is now running successfully.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-475727&quot; src=&quot;https://developers.redhat.com/blog/wp-content/uploads/2018/03/express-quick-example-ui-1024x518.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then, if we click the link, we can see our example app running:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-475737&quot; src=&quot;https://developers.redhat.com/blog/wp-content/uploads/2018/03/express-quick-example-express.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The example above will use the latest &lt;a href=&quot;https://hub.docker.com/r/bucharestgold/centos7-s2i-nodejs/&quot;&gt;community s2i images&lt;/a&gt; (9.x at the time of this writing). To use a fully supported version of Node.js on OpenShift all you need is to add the “–dockerImage” flag.&lt;/p&gt;
+
+&lt;p&gt;This will integrate the Red Hat OpenShift Application Runtime version Node.js (8.x) which you can get full production and developer support as part of our product subscription.&lt;/p&gt;
+
+&lt;p&gt;This might look something like this:&lt;/p&gt;
+&lt;pre&gt;$ npx nodeshift --strictSSL=false --expose --dockerImage=registry.access.redhat.com/rhoar-nodejs/nodejs-8&lt;/pre&gt;
+&lt;h3&gt;Recap&lt;/h3&gt;
+&lt;p&gt;In this post, the commands were a little spread out, so let’s see them all together again:&lt;/p&gt;
+&lt;pre&gt;$ npx express-generator .&lt;/pre&gt;
+&lt;pre&gt;$ npx json -I -f package.json -e 'this.scripts.start=&quot;PORT=8080 node ./bin/www&quot;'&lt;/pre&gt;
+&lt;pre&gt;$ npx nodeshift --strictSSL=false --expose&lt;/pre&gt;
+&lt;p&gt;The example app we created was very simple, but it shows how quickly you can get started using Node.js on OpenShift.&lt;/p&gt;</content><author><name>Lucas Holmquist</name><email>lholmqui@redhat.com</email></author><category term="Openshift" /><category term="Nodeshift" /><summary type="html">(Edit: November 22, 2019) The Node images used in this post, both community centos7 and product, are no longer being updated and maintained. For community images, please use the Universal Base Image (UBI)-based node images located here: registry.access.redhat.com/ubi8/nodejs-10</summary></entry></feed>
